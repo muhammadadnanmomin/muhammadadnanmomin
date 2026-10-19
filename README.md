@@ -1,91 +1,37 @@
 # Hi, I'm Adnan Momin 👋
 
-🚀 Data Scientist & Machine Learning Engineer  
-✈️ Specializing in Aviation Analytics, Time Series Forecasting & End-to-End ML Systems  
-📍 India  
+💻 Full-Stack Developer | Data Science & Machine Learning  
+🚀 Building **[Confairo](https://confairo.com)** — an academic conference management platform  
+📍 India
 
-I build **real-world machine learning systems** — from raw data and feature engineering to model deployment and interactive applications.
+I'm a developer passionate about building practical software products, solving real-world problems, and exploring AI and machine learning.
 
----
+### 🚀 What I'm Working On
 
-## 🔍 What I Focus On
+**[Confairo](https://confairo.com)** — An academic conference management platform that helps organizers manage the entire conference workflow, from paper submissions and peer reviews to scheduling, registrations, and certificates.
 
-• Machine Learning & Deep Learning  
-• Time Series Forecasting  
-• Feature Engineering & Model Optimization  
-• Unsupervised Learning & Representation Learning  
-• SQL Analytics & Data Engineering  
-• Deployment with Docker & AWS  
-• Interactive ML Apps with Streamlit  
+I'm focused on building useful features, integrating AI, and creating a reliable, user-friendly experience for academic communities.
 
----
+### 🛠️ Tech Stack
 
-## 🏆 Featured Projects
+- **Languages:** Python, SQL, JavaScript, TypeScript
+- **Web Development:** React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend & Databases:** Django, REST APIs, Supabase, PostgreSQL, MySQL
+- **AI & Machine Learning:** Scikit-learn, XGBoost, PyTorch, Pandas, NumPy
+- **Tools & Deployment:** Git, GitHub, Docker, AWS, Vercel, Streamlit
 
-### ✈️ Flight Delay Minutes Prediction
-**Production-ready ML system to predict airline delay minutes**
-- XGBoost regression on 170k+ records
-- Feature engineering for seasonality & carrier behavior
-- Deployed with Streamlit, Docker & AWS
-- R² = 0.947
+### 🏆 Achievement
 
-🔗 Repo: https://github.com/muhammadadnanmomin/flight-delay-prediction  
-🔗 Live: https://flight-delay-app.streamlit.app/
+🏅 Best Paper Award — ICSISD-26  
+*Time Series Forecasting Using Machine Learning for Sustainable Resource Planning*
 
----
+### 📫 Connect With Me
 
-### 📈 Air Travel Demand Forecasting
-**Time series + ML-based passenger demand forecasting**
-- SARIMA, Prophet, XGBoost, LightGBM benchmarking
-- Structural break handling (COVID impact)
-- Lag-based feature engineering
-- Deployed as an interactive web app
-
-🔗 Repo: https://github.com/muhammadadnanmomin/air-travel-demand-forecasting  
-🔗 Live: https://air-travel-demand-forecasting.streamlit.app/
+- **Website:** [confairo.com](https://confairo.com)
+- **Email:** muhammadadnanmomin@gmail.com
+- **LinkedIn:** [adnanmomin](https://www.linkedin.com/in/adnanmomin)
+- **GitHub:** [muhammadadnanmomin](https://github.com/muhammadadnanmomin)
 
 ---
 
-### 🥊 Fighter Style Discovery (Unsupervised Learning)
-**Autoencoder-based representation learning on fighter statistics**
-- PyTorch deep autoencoder
-- Latent embeddings + clustering
-- UMAP visualization
-- Unlabeled pattern discovery
-
-🔗 Repo: https://github.com/muhammadadnanmomin/fighter-style-embedding
-
----
-
-### 🗄️ Airline SQL Analytics (120M+ Records)
-**Large-scale data engineering & KPI system**
-- Star schema modeling
-- Chunk-based ETL
-- Weighted KPI computation
-- Parquet-backed analytics
-- Streamlit dashboard
-
-🔗 Repo: https://github.com/muhammadadnanmomin/airline-sql-analytics
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, SQL  
-**ML/DL:** Scikit-learn, XGBoost, LightGBM, PyTorch  
-**Data:** Pandas, NumPy  
-**Visualization:** Matplotlib, Seaborn, Plotly  
-**Time Series:** SARIMA, Prophet, Lag-based ML  
-**Deployment:** Streamlit, Docker, AWS EC2  
-**Databases:** MySQL  
-**Tools:** Git, GitHub, Jupyter, VS Code  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: muhammadadnanmomin@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/adnanmomin  
-💻 GitHub: https://github.com/muhammadadnanmomin  
-
----
+*Building, learning, and turning ideas into products.* 🚀
